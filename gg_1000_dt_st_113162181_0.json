@@ -1,0 +1,148 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/yard_gg_1000_it.json",
+    "id_item": "yard_gg_1000_it",
+    "id_album": "113162181",
+    "english": "yard",
+    "list_mean": [
+      "sân có rào chung quanh",
+      "thước anh",
+      "trục buồm"
+    ],
+    "cau_en": "a full skirt that took twenty yards of cloth",
+    "cau_vn": "một chiếc váy đầy đủ gấp hai mươi mét vải",
+    "hash_code_list_mean": "78732876"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/year_gg_1000_it.json",
+    "id_item": "year_gg_1000_it",
+    "id_album": "113162181",
+    "english": "year",
+    "list_mean": [
+      "năm"
+    ],
+    "cau_en": "it's going to take years to put that right",
+    "cau_vn": "nó sẽ mất nhiều năm để đặt đúng",
+    "hash_code_list_mean": "113879"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/yellow_gg_1000_it.json",
+    "id_item": "yellow_gg_1000_it",
+    "id_album": "113162181",
+    "english": "yellow",
+    "list_mean": [
+      "màu vàng",
+      "nhát gan",
+      "vàng"
+    ],
+    "cau_en": "he'd better get back there quick and prove he's not yellow",
+    "cau_vn": "anh ấy tốt hơn nên lấy lại ở đó nhanh chóng và chứng minh anh ấy không có màu vàng",
+    "hash_code_list_mean": "343799030"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/yesterday_gg_1000_it.json",
+    "id_item": "yesterday_gg_1000_it",
+    "id_album": "113162181",
+    "english": "yesterday",
+    "list_mean": [
+      "hôm qua",
+      "ngày hôm qua"
+    ],
+    "cau_en": "he returned to a hero's welcome yesterday",
+    "cau_vn": "Anh trở lại với một anh hùng chào đón ngày hôm qua",
+    "hash_code_list_mean": "2104859490"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/yes_gg_1000_it.json",
+    "id_item": "yes_gg_1000_it",
+    "id_album": "113162181",
+    "english": "yes",
+    "list_mean": [
+      "vâng",
+      "dạ"
+    ],
+    "cau_en": "plenty to eat, including hot roast beef sandwiches (yes!)",
+    "cau_vn": "Rất nhiều để ăn, bao gồm bánh sandwich thịt bò nướng nóng (có!)",
+    "hash_code_list_mean": "115918018"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/yet_gg_1000_it.json",
+    "id_item": "yet_gg_1000_it",
+    "id_album": "113162181",
+    "english": "yet",
+    "list_mean": [
+      "nhưng",
+      "tuy nhiên",
+      "song",
+      "tùy thế",
+      "dầu đến thế nào",
+      "dầu sao nữa",
+      "còn",
+      "còn nữa",
+      "đến nay"
+    ],
+    "cau_en": "the path was dark, yet I slowly found my way",
+    "cau_vn": "Con đường tối, nhưng tôi dần dần tìm thấy con đường của mình",
+    "hash_code_list_mean": "258054725"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/yoga_gg_1000_it.json",
+    "id_item": "yoga_gg_1000_it",
+    "id_album": "113162181",
+    "english": "yoga",
+    "list_mean": [
+      "sự ngồi thiền",
+      "tập ngồi thiền"
+    ],
+    "cau_en": "yoga classes",
+    "cau_vn": "lớp yoga",
+    "hash_code_list_mean": "-28924148"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/young_gg_1000_it.json",
+    "id_item": "young_gg_1000_it",
+    "id_album": "113162181",
+    "english": "young",
+    "list_mean": [
+      "thiếu niên",
+      "trẻ",
+      "trẻ tuổi"
+    ],
+    "cau_en": "this species carries its young",
+    "cau_vn": "Loài này mang non trẻ",
+    "hash_code_list_mean": "1643153448"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/your_gg_1000_it.json",
+    "id_item": "your_gg_1000_it",
+    "id_album": "113162181",
+    "english": "your",
+    "list_mean": [
+      "của cậu",
+      "của mầy",
+      "của ông",
+      "của anh",
+      "của bạn"
+    ],
+    "cau_en": "the sight is enough to break your heart",
+    "cau_vn": "Cảnh tượng đủ để phá vỡ trái tim của bạn",
+    "hash_code_list_mean": "-1059098572"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_1000_it_1/raw/main/you_gg_1000_it.json",
+    "id_item": "you_gg_1000_it",
+    "id_album": "113162181",
+    "english": "you",
+    "list_mean": [
+      "anh",
+      "ông",
+      "mày",
+      "các anh",
+      "các bạn",
+      "bạn"
+    ],
+    "cau_en": "after a while, you get used to it",
+    "cau_vn": "Sau một thời gian, bạn đã quen với nó",
+    "hash_code_list_mean": "984398049"
+  }
+]
